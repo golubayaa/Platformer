@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ксюша\\Downloads\\Platformer\\Platformer\\Platformer\\Platformer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ксюша\\Downloads\\Platformer\\Platformer\\Platformer\\Platformer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ксюша\\Downloads\\Platformer\\Platformer\\Platformer\\Platformer.csproj",
+        "projectName": "Platformer",
+        "projectPath": "C:\\Users\\Ксюша\\Downloads\\Platformer\\Platformer\\Platformer\\Platformer.csproj",
+        "packagesPath": "C:\\Users\\Ксюша\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ксюша\\Downloads\\Platformer\\Platformer\\Platformer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ксюша\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
